@@ -29,7 +29,7 @@ Aquí se encuentran algunos de los algoritmos o modelos que se han desarrollado 
 
 ## Contenidos:
 
-1.  [Regresión](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/tree/master/Regresion)
+1.  [Regresión](https://github.com/abdielgv163/Machine-Learning-and-DS/tree/master/Regresion)
     *  [Regresión Lineal y ECM](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Regresion/Regresion_Lineal_y_ECM.ipynb)
     *  [Regresión Lineal con ScikitLearn](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Regresion/Regresion_Lineal_ScikitLearn.ipynb)
     *  [Regresión logística con ScikitLearn](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Regresion/Regresion_Logistica.ipynb)
