@@ -19,10 +19,6 @@
 
 ---
 
-Aquí se encuentran algunos de los algoritmos o modelos que se han desarrollado en el repositorio de [Data-Science-Machine-Learning-Notes](https://github.com/abdielgv162/Data-Science-Machine-Learning-Notes) y algunos proyectos que vaya desarrollando con el paso del tiempo.
-
----
-
 
 
 ## Contenidos:
@@ -51,7 +47,5 @@ Aquí se encuentran algunos de los algoritmos o modelos que se han desarrollado 
     * [COPIA de notebook VQGAN+CLIP](https://github.com/abdielgv162/Machine-Learning-Models-and-Algorithms/blob/master/Dot_CSV_IA_Notebooks/Copia_de_VQGAN%2BCLIP_(z%2Bquantize_method_con_augmentations).ipynb)
 
 
-
 ---
 
-**NOTA**: Para leer el documento con mayor claridad y ejecutar los programas correctamente se deberá abrir el archivo en un entorno local de jupyter notebook o en plataformas en la nube basadas en Jupyter como [Google Colab](https://colab.research.google.com/).
