@@ -13,8 +13,7 @@
 
 <div align="Center"><h1> Machine Learning </h1></div>
 <div align="center">
-<video src="https://i.imgur.com/DVbrQZA.mp4" controls>
-    </video>
+    <image crs= 'https://sitiobigdata.com/wp-content/uploads/2019/04/1555804569_What-is-Geometric-Deep-Learning.gif'> </image>
 
 
 ---
