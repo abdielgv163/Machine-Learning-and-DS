@@ -13,8 +13,8 @@
 
 <div align="Center"><h1> Machine Learning </h1></div>
 <div align="center">
-    <img src="https://i.imgur.com/DVbrQZA.mp4">
-</div>
+<video src="https://i.imgur.com/DVbrQZA.mp4" controls>
+    </video>
 
 
 ---
