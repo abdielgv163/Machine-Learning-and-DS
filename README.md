@@ -31,6 +31,7 @@ Aquí se encuentran algunos de los algoritmos o modelos que se han desarrollado 
     *  [Regresión Lineal y ECM](https://github.com/abdielgv163/Machine-Learning-and-DS/blob/master/Regresion/Regresion_Lineal_y_ECM.ipynb)
     *  [Regresión Lineal con ScikitLearn](https://github.com/abdielgv163/Machine-Learning-and-DS/blob/master/Regresion/Regresion_Lineal_ScikitLearn.ipynb)
     *  [Regresión logística con ScikitLearn](https://github.com/abdielgv163/Machine-Learning-and-DS/blob/master/Regresion/Regresion_Logistica.ipynb)
+    *  [Predicción del rating de libros utilizando regresión lineal](https://github.com/abdielgv163/Machine-Learning-and-DS/blob/master/Regresion/RatingLibros_RegresionLineal.ipynb)
 2.  [Árboles de decisión](https://github.com/abdielgv163/Machine-Learning-and-DS/tree/master/Arboles_de_decision)
     *  [Árbol de decisión con data set Titanic](https://github.com/abdielgv163/Machine-Learning-and-DS/blob/master/Arboles_de_decision/Arbol_de_decision_Titanic.ipynb)
     *  [2da Solución de Titanic](https://github.com/abdielgv163/Machine-Learning-and-DS/blob/master/Arboles_de_decision/Titanic_2nd.ipynb)
